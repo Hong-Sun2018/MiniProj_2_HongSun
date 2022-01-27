@@ -18,7 +18,7 @@ namespace MiniProj_HongSun.Models
         {
             optionsBuilder.UseSqlServer(@"
                 Data Source=DESKTOP-RRPBPMD\SQLEXPRESS;
-                Initial Catalog=MiniProject_2;
+                Initial Catalog=MiniProject_2_HongSun;
                 Integrated Security=True;Connect Timeout=30;
                 Encrypt=False;TrustServerCertificate=False;
                 ApplicationIntent=ReadWrite;

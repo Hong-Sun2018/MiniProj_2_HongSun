@@ -10,7 +10,7 @@ using MiniProj_HongSun.Models;
 namespace MiniProj_HongSun.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20220127023017_init")]
+    [Migration("20220127090238_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
